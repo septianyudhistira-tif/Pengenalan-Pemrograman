@@ -9,6 +9,14 @@ This directory contains assignments, programming exercises, and practical implem
 - **Assignments** — Coursework and programming tasks completed throughout the semester.
 - **Problem Solving** — Practical implementations focused on developing algorithmic thinking and problem-solving skills.
 
+## 📝 Daftar Praktikum
+
+| No | Praktikum | File |
+|---|---|---|
+| 1 | Latihan 1 | - |
+| 2 |  | |
+
+
 ## 🎯 Learning Objectives
 
 - Understand fundamental programming concepts and principles.
